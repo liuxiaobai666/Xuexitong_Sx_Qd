@@ -3,3 +3,4 @@ data/
 dist/
 xuexit-过程/
 log.txt
+__pycache__/
